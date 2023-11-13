@@ -47,6 +47,7 @@ Some considerations which i had to encoporate into my website when i was refacto
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Live Site](#live-site)
+  - [Horiseon Repository and Source code on Github](#horiseon-repository-and-source-code-on-github)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
@@ -90,10 +91,11 @@ Some considerations which i had to encoporate into my website when i was refacto
 <br>
 
 ## Live Site
+- To view the live/ active website please click on the following link: [View Live Horiseon Website](https://serk03.github.io/horiseon-refactor/)
 
+## Horiseon Repository and Source code on Github
+- To view the repository and its source code please visit Github by clicking on the following link: [View Github Repository](https://github.com/serk03/horiseon-refactor)
 
-
-<br>
 
 ## Usage
 
@@ -102,13 +104,13 @@ Provide instructions and examples for use. Include screenshots as needed.
 - Use the navigation links at top to immediately navigate to corresponding section below.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
--Search Engine Optimization - clicking on this navigation link will take you to the Search Engine Optimization section below.
+-Search Engine Optimization - By clicking on this navigation it link will take you to the Search Engine Optimization section below.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
--Online Reputation Management - clicking on this navigation link will take you to the Search Engine Optimization section below.
+-Online Reputation Management - By clicking on this navigation it link will take you to the Search Engine Optimization section below.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
--Social Media Marketing - clicking on this navigation link will take you to the Search Engine Optimization section below.
+-Social Media Marketing - By clicking on this navigation link it will take you to the Search Engine Optimization section below.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 - You can use the scroll functionality on your mouse to either move up or down on the website.

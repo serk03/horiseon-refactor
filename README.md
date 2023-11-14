@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was provide by EDX bootcamp, which was designed to prepare me for two scanerios that i will encounter as a developer in the real world. I had to demostrate my ability to adapt to on-the-job/ feature requests and job-seeking coding assessments.
+This project was provided by EDX bootcamp, which was designed to prepare me for two scanerios that i will encounter as a developer in the real world. I had to demostrate my ability to adapt to on-the-job/ feature requests and job-seeking coding assessments.
 
 I was provided with the relevant starter code which i had to modify/ refactor and provide enhancements where needed.
 
@@ -63,23 +63,23 @@ Some considerations which i had to encoporate into my website when i was refacto
    
 2. Create a folder/ directory to store website folders/ files within it use the following command<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -
-  mkdir "folder name"<br>
+ ` mkdir "folder name"`<br>
 
 1.  Navgate into folder using following command.<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -
-  cd "folder name"<br>
+  `cd "folder name"`<br>
 
 1. To make a copy/ clone of the website inside of the folder/ directory use the following command<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -
-  git clone "git@github.com:serk03/horiseon-refactor.git"
+  `git clone "git@github.com:serk03/horiseon-refactor.git"`
   
 1. Navigate inside of your folder/ directory that you copied using the following commands.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -
-  cd "folder/ directory name"
+  `cd "folder/ directory name"`
 
 1. To view the folder/ files from the website inside a VS Code using the following command.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -
-  code .
+  `code .`
 
 1. Open the files you would like to view using the following command.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
